@@ -22,4 +22,16 @@ http://www.fullstackradio.com/
 
 http://www.techdoneright.io/
 
+https://www.programmingthrowdown.com/
+
+#Books
+
 http://www.poodr.com/
+
+https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-ebook/dp/B004MMEJ36
+
+https://eloquentjavascript.net/
+
+https://github.com/getify/You-Dont-Know-JS
+
+https://www.sandimetz.com/99bottles/
