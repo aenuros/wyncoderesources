@@ -1,6 +1,6 @@
 # wyncoderesources
 
-# Podcasts
+## Podcasts
 
 https://rails-weekly.ongoodbits.com/
 
@@ -26,7 +26,7 @@ http://www.techdoneright.io/
 
 https://www.programmingthrowdown.com/
 
-# Books
+## Books
 
 http://www.poodr.com/
 
@@ -37,3 +37,7 @@ https://eloquentjavascript.net/
 https://github.com/getify/You-Dont-Know-JS
 
 https://www.sandimetz.com/99bottles/
+
+## Other
+
+https://thoughtbot.com/upcase/
