@@ -1,5 +1,7 @@
 # wyncoderesources
 
+# Podcasts
+
 https://rails-weekly.ongoodbits.com/
 
 http://bikeshed.fm/
@@ -24,7 +26,7 @@ http://www.techdoneright.io/
 
 https://www.programmingthrowdown.com/
 
-#Books
+# Books
 
 http://www.poodr.com/
 
