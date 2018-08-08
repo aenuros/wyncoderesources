@@ -41,3 +41,13 @@ https://www.sandimetz.com/99bottles/
 ## Other
 
 https://thoughtbot.com/upcase/
+
+https://www.driftingruby.com/
+
+https://gorails.com/
+
+https://es6.io/
+
+https://reactforbeginners.com/
+
+https://javascript30.com/
